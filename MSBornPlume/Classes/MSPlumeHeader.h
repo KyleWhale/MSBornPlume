@@ -11,6 +11,8 @@
 #import <MSBornPlume/MSDeviceVolumeAndBrightness.h>
 #import <MSBornPlume/MSControlLayerDefines.h>
 #import <MSBornPlume/MSRotationManager.h>
+#import <MSBornPlume/NSString+MSBornPlumeExtended.h>
+#import <MSBornPlume/NSAttributedString+MSMake.h>
 #else
 #import "MSBornPlume.h"
 #import "MSPlume.h"
@@ -23,5 +25,6 @@
 #import "MSDeviceVolumeAndBrightness.h"
 #import "MSControlLayerDefines.h"
 #import "MSRotationManager.h"
-
+#import "NSString+MSBornPlumeExtended.h"
+#import "NSAttributedString+MSMake.h"
 #endif
