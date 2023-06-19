@@ -308,6 +308,7 @@
 		0185EF4D2A402FB2002CF3DE /* MSLoadingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MSLoadingView.h; sourceTree = "<group>"; };
 		0185EF4F2A402FB2002CF3DE /* MSBornPlumeResources.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = MSBornPlumeResources.bundle; sourceTree = "<group>"; };
 		0185EF502A402FB2002CF3DE /* MSPlume.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = MSPlume.bundle; sourceTree = "<group>"; };
+		0185EFA72A4035D4002CF3DE /* MSPlumeHeader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MSPlumeHeader.h; sourceTree = "<group>"; };
 		8073D5E6E020943DE84303D5 /* Pods-MSBornPlume.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MSBornPlume.release.xcconfig"; path = "Target Support Files/Pods-MSBornPlume/Pods-MSBornPlume.release.xcconfig"; sourceTree = "<group>"; };
 		B6E247F2196975803AC36C8A /* Pods_MSBornPlume.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MSBornPlume.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F318EADE7A4580799991EAFA /* Pods-MSBornPlume.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MSBornPlume.debug.xcconfig"; path = "Target Support Files/Pods-MSBornPlume/Pods-MSBornPlume.debug.xcconfig"; sourceTree = "<group>"; };
@@ -557,6 +558,7 @@
 				0185EF3D2A402FB1002CF3DE /* UIView+MSBornPlumeExtended.m */,
 				0185EEB82A402FB1002CF3DE /* UIViewController+MSBornPlumeExtended.h */,
 				0185EF2F2A402FB1002CF3DE /* UIViewController+MSBornPlumeExtended.m */,
+				0185EFA72A4035D4002CF3DE /* MSPlumeHeader.h */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
