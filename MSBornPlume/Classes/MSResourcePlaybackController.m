@@ -157,12 +157,7 @@ NS_ASSUME_NONNULL_BEGIN
 }
 
 - (void)play {
-    if (@available(iOS 14.0, *)) {
-        self.needsToRefresh_fix339 ? [self refresh] : [super play];
-    }
-    else {
-        [super play];
-    }
+    [super play];
 }
 
 - (void)stop {
